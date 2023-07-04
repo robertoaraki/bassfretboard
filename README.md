@@ -24,5 +24,5 @@ As the generated graphic is SVG, I studied the source code and realized that it 
 
 The result of my fretboard chart is available below in SVG and PDF version, for a 4-string, 20-fret bass.
 
-The Portuguese and English versions are for differentiating the notes Do/Có, Re/Dé, Fa/Fá, La/Lá.
+The Portuguese and English versions are for differentiating the notes Do/Dó, Re/Ré, Fa/Fá, La/Lá.
 
