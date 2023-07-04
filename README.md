@@ -1,4 +1,4 @@
-# bassfretboard
+# Bass Fretboard
 
 ### Fretboard para baixo de 4 cordas e 20 trastes!
 
